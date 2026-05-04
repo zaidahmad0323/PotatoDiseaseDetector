@@ -1,0 +1,6 @@
+PotatoDataset/
+frontend/
+.venv/
+backend.Dockerfile
+docker-compose.yaml
+model.ipynb
