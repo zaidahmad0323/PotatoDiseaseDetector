@@ -1,7 +1,7 @@
 import { useState, useRef, useCallback } from "react";
 
-const API_URL = "http://localhost:8000";
-
+// const API_URL = "http://localhost:8000";
+const API_URL = "https://capillary-mammal-sandbag.ngrok-free.dev";
 const DISEASE_INFO = {
   Potato___Early_blight: {
     label: "Early Blight",
